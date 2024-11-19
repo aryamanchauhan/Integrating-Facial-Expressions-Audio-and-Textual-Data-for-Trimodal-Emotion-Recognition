@@ -1,4 +1,4 @@
-# **Emotion Recognition Suite**
+# **Trimodal Emotion Sensing (3 Part Model)**
 
 This repository implements multi-modal emotion recognition from **speech**, **text**, and **video** data. Each modality uses tailored preprocessing techniques, neural network architectures, and evaluation methods to achieve robust performance.
 
